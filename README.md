@@ -1,5 +1,3 @@
-# VRV_Security_Project
-
 # VRV Security’s Python Intern Assignment
 
 ## Assignment: Log Analysis Script
